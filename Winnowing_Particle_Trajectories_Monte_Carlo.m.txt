@@ -1,11 +1,3 @@
-% Hand in 2 : Winnowing = monte Carlo
-% Name : Ridham Kishorbhai Bhuva
-% Matr. No. : 245921
-% Course : CEE
-
-%% Task 1 and 2
-% please copy separate task for task 3 in new file and run it
-
 clear all;
 
 % Dimensions and flow properties in SI unit
@@ -331,3 +323,4 @@ Proportion_of_particles_in_Bin_2 = bin2/20 % in %
 
 
 % task 3 END!!!
+
